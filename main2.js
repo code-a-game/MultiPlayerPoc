@@ -13,7 +13,7 @@ const flights = [
     yMouse: 0,
     spawnX: 100,
     spawnY: 100,
-    color: 'green',
+    color: 'red',
     buls: [],
     // Contains number of times "me" has hit the different flights
     // The playerNumber is the index on the tables.
